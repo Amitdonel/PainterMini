@@ -83,7 +83,7 @@ namespace PainterMini
             restoreTimer.Tick += RestoreTimer_Tick;
         }
 
-        // Setup ToolStrip with shape and color buttons
+        // Setup ToolStrip with shape and color buttons !
         private void SetupToolStrip()
         {
             ToolStrip toolStrip = new ToolStrip();
